@@ -1,0 +1,7 @@
+Las comunidades e iniciativas ciudadanas pueden beneficiarse de tecnologías abiertas como Node.js porque les permiten desarrollar sus propias herramientas digitales de forma accesible, adaptable y transparente. Esto fortalece la participación ciudadana, reduce la dependencia de soluciones privadas, facilita la colaboración comunitaria y permite crear aplicaciones ajustadas a las necesidades reales de la comunidad.
+
+
+
+Además, el uso de tecnologías abiertas fomenta el aprendizaje, la innovación y el control sobre los datos y procesos, promoviendo una mayor autonomía tecnológica.
+
+Porque permiten crear soluciones propias, accesibles y transparentes que fortalecen la participación, la autonomía y la colaboración de las comunidades.
